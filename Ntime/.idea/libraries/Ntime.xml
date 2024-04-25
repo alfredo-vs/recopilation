@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ntime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ntime/out/artifacts/Ntime_jar/Ntime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
